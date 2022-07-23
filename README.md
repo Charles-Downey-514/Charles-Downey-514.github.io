@@ -1,2 +1,2 @@
 # Charles-Downey-514.github.io
-Serves as a resume website.
+The purpose of this repo is to serve as a testing/resume website.
